@@ -1,6 +1,6 @@
- # Irina Kovaleva
+# Irina Kovaleva
 
- ##### CONTACT INFORMATION
+##### CONTACT INFORMATION
 _phone: +7 702 370 71 08_
 _e-mail: kapecira@mail.ru_
 _address: Kazakhstan, Nur-Sultan_
@@ -17,10 +17,10 @@ Russian(Native)
 - Hardworking
 - Purposefulness
 
- ##### WORK EXPERIENCE
+##### WORK EXPERIENCE
   I have no experience, but **I am ready to work only for skills and experience**
 
- ##### EDUCATIONAL HISTORY
+##### EDUCATIONAL HISTORY
  **Karaganda Polytechnic College -
 Karaganda**
 Graduated in 2008
